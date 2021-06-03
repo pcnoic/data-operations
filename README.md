@@ -1,2 +1,2 @@
-# data-importers
-Data importers for a variety of database schemes
+# data-operations
+Data operations for a variety of database types
